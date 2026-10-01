@@ -1,6 +1,6 @@
 # 📝 1431. Kids With the Greatest Number of Candies (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/?envType=study-plan-v2&envId=leetcode-75)
+🔗 [Problem Link](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/editorial/?envType=study-plan-v2&envId=leetcode-75)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Plaintext-blue)
 
