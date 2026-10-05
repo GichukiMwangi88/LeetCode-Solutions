@@ -7,7 +7,7 @@ class Solution:
         # Left and Right pointers to keep track of vowels in list
         left, right = 0, len(s) - 1
 
-        s = ""
+        
         # Loop until the left and right pointers meet in the middle
         while left < right:
             if s[left] not in vowels:
