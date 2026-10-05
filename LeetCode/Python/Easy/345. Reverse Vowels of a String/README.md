@@ -1,6 +1,6 @@
 # 📝 345. Reverse Vowels of a String (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/reverse-vowels-of-a-string/?envType=study-plan-v2&envId=leetcode-75)
+🔗 [Problem Link](https://leetcode.com/problems/reverse-vowels-of-a-string/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
@@ -8,8 +8,8 @@
 Two Pointers, String
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 52 ms
+- **Memory:** 20.6 MB
 
 ---
 

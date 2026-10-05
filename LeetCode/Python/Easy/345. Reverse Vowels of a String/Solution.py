@@ -7,7 +7,12 @@ class Solution:
         # Left and Right pointers to keep track of vowels in list
         left, right = 0, len(s) - 1
 
-        
+        """
+             l      r
+        s = "IceCreAm"
+                   r    --> both pointers point to vowels, so swap then continue
+                        --> s[l], s[r] = s[r], s[l]
+        """
         # Loop until the left and right pointers meet in the middle
         while left < right:
             if s[left] not in vowels:
