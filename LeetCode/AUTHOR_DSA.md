@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 2 / 238 (0.8%)
+- **Completed:** 3 / 238 (1.3%)
 
 ---
 
@@ -114,7 +114,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 ### 📂 MODULE  3.7: SUBARRAY & PREFIX INTUITION
 - [ ] Maximum Subarray
 - [ ] Find Pivot Index
-- [ ] Product of Array Except Self
+- [x] [Product of Array Except Self](./Python/Medium/238. Product of Array Except Self/)
 - [ ] Partition Array Into Three Parts With Equal Sum
 
 ### 📂 MODULE  3.8: GREEDYLIKE SIMULATION Best
