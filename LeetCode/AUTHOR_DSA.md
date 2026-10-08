@@ -79,7 +79,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] Concatenation of Array
 
 ### 📂 MODULE  3.3: INPLACE ARRAY MODIFICATION
-- [x] [Move Zeroes](./Plaintext/Easy/283. Move Zeroes/)
+- [x] [Move Zeroes](./Python/Easy/283. Move Zeroes/)
 - [ ] Remove Duplicates from Sorted Array
 - [ ] Remove Element
 - [ ] Remove Duplicates II

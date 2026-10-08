@@ -13,7 +13,7 @@ Track your progress on the Grind 100 coding interview preparation list.
 - [ ] Two Sum
 - [ ] 3Sum
 - [ ] Container With Most Water
-- [x] [Move Zeroes](./Plaintext/Easy/283. Move Zeroes/)
+- [x] [Move Zeroes](./Python/Easy/283. Move Zeroes/)
 - [ ] Sort Colors
 - [x] [Product of Array Except Self](./Python/Medium/238. Product of Array Except Self/)
 - [ ] Next Permutation
