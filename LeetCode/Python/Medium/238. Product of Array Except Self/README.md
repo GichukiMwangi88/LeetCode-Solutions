@@ -1,6 +1,6 @@
 # 📝 238. Product of Array Except Self (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/product-of-array-except-self/?envType=study-plan-v2&envId=leetcode-75)
+🔗 [Problem Link](https://leetcode.com/problems/product-of-array-except-self/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
@@ -8,8 +8,8 @@
 Array, Prefix Sum
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 51 ms
+- **Memory:** 27.9 MB
 
 ---
 

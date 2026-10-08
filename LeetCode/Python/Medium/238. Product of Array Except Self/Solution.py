@@ -9,7 +9,7 @@ class Solution:
             prefix[i] = prefix[i - 1] * nums[i- 1]
         print(prefix)
 
-        # Prefix list
+        # Postfix list
         postfix = [1] * len(nums) # [1,1,1,1]
         # Populate the posftfix list
         for i in range(len(nums) - 2, -1, -1):
@@ -19,7 +19,7 @@ class Solution:
 
         print(postfix)
 
-        result = [1] * len(nums)
+        result = [1] * len(nums) # prefill result arr with 1s to avoid runtime errors
         print(result)
 
         # Combine both arrays
