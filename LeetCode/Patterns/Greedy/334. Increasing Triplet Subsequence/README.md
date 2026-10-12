@@ -1,6 +1,6 @@
 # 📝 334. Increasing Triplet Subsequence (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/increasing-triplet-subsequence)
+🔗 [Problem Link](https://leetcode.com/problems/increasing-triplet-subsequence/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
@@ -8,8 +8,8 @@
 Array, Greedy, Longest Increasing Subsequence
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 11 ms
+- **Memory:** 38.8 MB
 
 ---
 
