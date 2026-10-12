@@ -1,6 +1,6 @@
 # 📝 334. Increasing Triplet Subsequence (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/increasing-triplet-subsequence/?envType=study-plan-v2&envId=leetcode-75)
+🔗 [Problem Link](https://leetcode.com/problems/increasing-triplet-subsequence)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
