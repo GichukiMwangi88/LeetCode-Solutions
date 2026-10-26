@@ -7,14 +7,19 @@ class Solution:
 
       # Traverse the list
       while left < right:
+        # Calculate the width
         width = right - left
 
+        # Find the min height because the shorter height limits
+        # how much water the container can hold
         min_height = min(height[left], height[right])
 
         current_area = min_height * width
 
+        # Keeps track of the largest area found
         max_area = max(max_area, current_area)
 
+        # Move the pointer to the shorter height
         if height[left] < height[right]:
             left += 1
         else:
