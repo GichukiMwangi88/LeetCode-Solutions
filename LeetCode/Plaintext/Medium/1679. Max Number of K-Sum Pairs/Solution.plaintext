@@ -1,0 +1,19 @@
+from collections import defaultdict
+class Solution:
+    def maxOperations(self, nums: List[int], k: int) -> int:
+        # Declare an empty default dict
+        d = defaultdict(int)
+        pairs = 0
+
+        for num in nums:
+            if d[complement] > 0:
+                d[complement] -= 1
+                pairs += 1
+            complement = k - num
+        print("Dictionary:", d)
+            print('Complement: ', complement)
+        print("Dictionary: ", d)
+            else:
+                d[num] += 1
+
+                
