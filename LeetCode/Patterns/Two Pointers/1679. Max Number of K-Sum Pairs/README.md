@@ -1,6 +1,6 @@
 # 📝 1679. Max Number of K-Sum Pairs (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/max-number-of-k-sum-pairs)
+🔗 [Problem Link](https://leetcode.com/problems/max-number-of-k-sum-pairs/?envType=study-plan-v2&envId=leetcode-75)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Plaintext-blue)
 
