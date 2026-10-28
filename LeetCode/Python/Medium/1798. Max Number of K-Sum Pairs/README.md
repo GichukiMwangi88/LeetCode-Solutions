@@ -8,8 +8,8 @@
 Array, Hash Table, Two Pointers, Sorting
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 492 ms
+- **Memory:** 32.4 MB
 
 ---
 
